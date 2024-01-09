@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.main-container{
+	height:200px;
+	width:100%;
+	background-color: #f5f5f5;
+	padding:30px
+}
+
+.inner{
+	
+	width:90%;
+	height:70px;
+	background-color:#fff;
+	border:2 px black;
+	
+	margin-bottom:50px,20
+	
+}
+.inner-p{
+	padding:8px;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
+
+
